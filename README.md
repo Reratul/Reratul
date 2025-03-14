@@ -2,6 +2,7 @@
 
 
 ![GIF Description](https://raw.githubusercontent.com/Reratul/Resources/main/giphy.gif)
+<br>
 me,<br>
 Full-stack Web developer<br>Learning Data Structure
 
